@@ -113,7 +113,9 @@ button {
   padding: 34px;
   min-height: 220px;
 }
-
+.services-header {
+  grid-column: 1 / -1;
+}
 .services h2,
 .about h2,
 .cta h2 {
